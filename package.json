@@ -36,7 +36,7 @@
     "opusscript": "^0.0.8",
     "parse-ms": "^2.1.0",
     "pretty-ms": "^7.0.1",
-    "semver": "^7.3.5",
+    "semver": "^7.3.8",
     "tslib": "^2.3.1",
     "winston": "^3.3.3",
     "ytdl-core": "^4.9.1",
@@ -46,7 +46,7 @@
   "devDependencies": {
     "@types/node": "^16.9.1",
     "@types/node-fetch": "^2.5.12",
-    "@types/semver": "^7.3.8",
+    "@types/semver": "^7.3.12",
     "@typescript-eslint/eslint-plugin": "^4.31.0",
     "@typescript-eslint/parser": "^4.31.0",
     "@zhycorp/eslint-config": "^4.0.0",
